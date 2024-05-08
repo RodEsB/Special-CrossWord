@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/Special-CrossWord/cmake-build-debug/CMakeFiles/Special_CrossWord.dir
+/Users/rod/CLionProjects/Special-CrossWord/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/Special-CrossWord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
